@@ -46,7 +46,7 @@ def login_user():
 def access_secured_page():
     """Access a secured area after successful login."""
     print("\n--- Secured Page ---")
-    print("Welcome to the secret area! You have been selected!")
+    print("Welcome to the secured area! You have been selected!")
     print("-------------------------\n")
 
 def main_menu():
